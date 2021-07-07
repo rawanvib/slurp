@@ -1,0 +1,338 @@
+egg
+chicken
+lamb
+meat
+pork
+hake
+game
+beef
+mutton
+snail
+bacon
+mullet
+white
+cod
+steak
+turkey
+duck
+fowl
+calf
+eels
+Pheasant
+anchovy
+anchovies
+haddock
+rabbit
+sausage
+buffalo
+prawn
+lobster
+lobsters
+tuna
+meatloaf
+mincemeat
+meatcooked
+slicedmeat
+cheesesteak
+bulgogi
+ham
+gravlax
+goat
+cheesesteaks
+andouille
+Tenderloin
+loin
+salami
+chorizo
+carne
+bbq ribs
+Prawns
+prawnsMix
+Kaleji
+Keema
+Kheema
+Qeema
+Murg
+Jhinga
+gosht
+ghosht
+pepperoni
+flesh
+Prosciutto
+Saltimbocca
+saltinbocca
+Scampi
+Pigs
+gyros
+carne guisada
+picadillo
+Bangers And Mash
+veal
+lard
+duck
+Goat cheese
+Haloumi
+Cabanossi
+kabanos
+ribs
+walleye
+Danish salami
+Ham hock
+Bacon bones
+Chorizo sausage
+Kangaroo
+brisket
+Prawns minced
+Riblet
+calamari
+Kangaroo mince
+kangaroo
+goat milk
+Kransky sausage
+Cotechino
+Kabana sausage
+Venison
+hot dogs
+hot dog
+Bourguignon
+beefsteak
+bratwurst
+Bresaola
+bockwurst
+Bollito
+boar
+Goose
+Ground turkey
+Ground veal
+Ham hock
+hen
+hens
+deli ham
+Hedgehog
+Goose fat
+Knackwurst sausages
+Knackwurst
+Knockwurst
+Duck fat
+Pancetta
+Meatloaves
+Mignon steaks
+poultry
+meatier
+Proscuitto
+meatiness
+meatiest
+Merguez
+Pig
+Peking ducks
+Rabbit
+peking
+chorizos
+Escalopes
+Escalope
+Porcupine
+octopi
+octopus
+Reindeer
+Costata
+Capon
+cockerel
+Duckling
+Giblet
+pastrami
+Minced mutton
+Murgi
+murga
+Mutton shoulder
+Mutton liver
+Goat liver
+Duck curry
+Hansher
+Buffalo sauce
+deli turkey
+ribeye
+Kiolbassa
+Kiolbassa sausages
+Babotie
+crab legs
+Drummettes
+Drummette
+duck breasts
+cartilage
+veal stew
+Ground chorizo
+Carnitas
+Carnita
+bison
+bison sausage
+italian sausage
+cornish hens
+Chickenaise
+bracciole
+Hedgehogs
+snails
+goats
+pescatarian
+pescatarianism
+pesco-vegetarians
+fish
+pesco-vegetarian
+cuttlefish
+shellfish
+ladyfish
+salmon
+clams
+clam
+shrimp
+shrimps
+mussels
+Krab
+crab
+crabs
+lobaster
+Maachh
+maach
+Machha
+Machher
+squid
+Calamari
+Macher
+Macchi
+sushi
+ahi poke bowl
+tilapia
+goldfish
+Salmon fillet
+Salmon fillets
+oyster
+Caviar
+oysters
+Codfish
+Barramundi
+Nori sheets
+Nori
+crayfish
+roe
+Catfish
+Salmon steaks
+red snapper fillets
+snapper fillet
+Mackerel
+Crabmeat
+Crawfish
+fishkill
+whitefish fillets
+cod fillets
+panfish
+anchovies
+cockles
+Bouillabaisse
+Anchovy fillets
+Butterfish
+Bottarga
+shrimp paste
+Anchovy paste
+Cod fillets
+calamari
+Bass fillet
+Bass
+Codfish fillets
+Ahi tuna steak
+Kielbasa
+Halibut steaks
+possum
+Halibut
+crappie fillet
+katsuobushi
+Halibut fillets
+flounder
+flounder fillet
+Fillets trout
+trout
+Salmon 
+Oyster sauce
+sablefish
+Mussel
+Monkfish
+Albacore
+clam
+Starfish
+Bacalao
+Bacalhau
+Branzino
+filet
+Seafood
+whitefish
+Swordfish
+Maacher
+Maas
+Macher
+Ilish
+hilsa
+Bhetki
+sea bass
+Steaks of boal
+boal
+Seabass
+Chingri
+Tiger prawns
+maachher
+Bhetkir
+Chitol peti
+Chitol
+Chitol gada
+Jhinge
+rohu
+katla
+Pabda
+Jhinuk
+climbing perch
+badis badis
+blue perch
+loitya
+bombay duck
+pomfret
+paplet
+bombil
+kolambi
+bangda
+Mourala
+King prawns
+maas
+shol
+jumbo prawns
+Tangra
+Scallops
+Sea scallops
+sea scallop
+blue eye trevalla
+barramundi
+seafood
+smoked trout
+smoked salmon
+seafood 
+jellyfish
+lionfish
+fishcake
+fishcakes
+anchovy 
+anchovies 
+whitefish
+pescetarian
+poached salmon
+tentacles
+tentacle
+seafood sauce
+Trevalla
+mackerel
+tangari
+pasanda
+crab
+meen
+calamari
+salmon
+quail
+sole
+lemon sole
+non vegetarian
+non veg
